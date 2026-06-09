@@ -1,0 +1,21 @@
+site,season,upper (°C/dec),lower (°C/dec),dominant driver
+KAN,DJF,↑ +0.637,↓ -0.721,upper warming faster
+KAN,MAM,↑ +0.164,↑ +1.356,lower warming faster
+KAN,JJA,↓ -0.639,↓ -0.706,upper warming faster
+KAN,SON,↑ +1.259,↑ +0.492,upper warming faster
+NUK,DJF,↑ +1.127,↑ +1.82,lower warming faster
+NUK,MAM,↓ -1.0,↑ +1.929,lower warming faster
+NUK,JJA,↓ -0.32,↓ -0.851,upper warming faster
+NUK,SON,↑ +1.639,↑ +0.865,upper warming faster
+QAS,DJF,↓ -1.792,↓ -0.58,lower warming faster
+QAS,MAM,↓ -0.364,↑ +0.496,lower warming faster
+QAS,JJA,↑ +0.075,↑ +0.435,lower warming faster
+QAS,SON,↑ +1.612,↑ +1.415,upper warming faster
+SCO,DJF,↓ -1.096,↓ -0.762,lower warming faster
+SCO,MAM,↑ +1.666,↑ +2.346,lower warming faster
+SCO,JJA,↓ -0.14,↑ +0.765,lower warming faster
+SCO,SON,↑ +1.153,↑ +0.893,upper warming faster
+THU,DJF,↑ +1.709,↑ +1.034,upper warming faster
+THU,MAM,↑ +0.688,↑ +2.315,lower warming faster
+THU,JJA,↓ -0.502,→ 0.027,lower warming faster
+THU,SON,↑ +0.574,↑ +0.08,upper warming faster
